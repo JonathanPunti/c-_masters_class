@@ -1,0 +1,103 @@
+12/5/2024 9:44:16 PM	This log contains information about the import schema operation into project 'MyMISDatabase1' on computer 'JONATHANPUNTI' by user 'Jonat'.
+12/5/2024 9:44:17 PM	Import of database schema has started.
+12/5/2024 9:44:17 PM	Gathering error messages
+12/5/2024 9:44:17 PM	Gathering cryptographic providers
+12/5/2024 9:44:17 PM	Gathering credentials
+12/5/2024 9:44:17 PM	Gathering logins
+12/5/2024 9:44:17 PM	Gathering server roles
+12/5/2024 9:44:17 PM	Gathering server role memberships
+12/5/2024 9:44:17 PM	Gathering linked servers
+12/5/2024 9:44:17 PM	Gathering linked server logins
+12/5/2024 9:44:17 PM	Gathering routes
+12/5/2024 9:44:17 PM	Gathering ddl triggers
+12/5/2024 9:44:17 PM	Gathering encrypted and clr ddl triggers
+12/5/2024 9:44:17 PM	Gathering event notifications
+12/5/2024 9:44:17 PM	Gathering server audits
+12/5/2024 9:44:17 PM	Gathering server audit specifications
+12/5/2024 9:44:17 PM	Gathering event notifications
+12/5/2024 9:44:20 PM	Gathering database credentials
+12/5/2024 9:44:20 PM	Gathering database options
+12/5/2024 9:44:20 PM	Gathering generic database scoped configuration option
+12/5/2024 9:44:20 PM	Gathering users
+12/5/2024 9:44:20 PM	Gathering roles
+12/5/2024 9:44:20 PM	Gathering application roles
+12/5/2024 9:44:20 PM	Gathering role memberships
+12/5/2024 9:44:20 PM	Gathering filegroups
+12/5/2024 9:44:20 PM	Gathering files
+12/5/2024 9:44:20 PM	Gathering full-text catalogs
+12/5/2024 9:44:20 PM	Gathering assemblies
+12/5/2024 9:44:20 PM	Gathering certificates
+12/5/2024 9:44:20 PM	Gathering asymmetric keys
+12/5/2024 9:44:20 PM	Gathering symmetric keys
+12/5/2024 9:44:20 PM	Gathering encrypted symmetric keys
+12/5/2024 9:44:20 PM	Gathering database encryption keys
+12/5/2024 9:44:20 PM	Gathering schemas
+12/5/2024 9:44:20 PM	Gathering XML schema collections
+12/5/2024 9:44:20 PM	Gathering user-defined data types
+12/5/2024 9:44:20 PM	Gathering user-defined types
+12/5/2024 9:44:20 PM	Gathering table types
+12/5/2024 9:44:20 PM	Gathering unique keys for table types
+12/5/2024 9:44:20 PM	Gathering primary keys for table types
+12/5/2024 9:44:20 PM	Gathering indexes for table types
+12/5/2024 9:44:20 PM	Gathering check constraints for table types
+12/5/2024 9:44:20 PM	Gathering default constraints for table types
+12/5/2024 9:44:20 PM	Gathering partition functions
+12/5/2024 9:44:20 PM	Gathering partition schemes
+12/5/2024 9:44:20 PM	Gathering functions
+12/5/2024 9:44:20 PM	Gathering encrypted functions
+12/5/2024 9:44:20 PM	Gathering aggregates
+12/5/2024 9:44:20 PM	Gathering procedures
+12/5/2024 9:44:20 PM	Gathering encrypted procedures
+12/5/2024 9:44:20 PM	Gathering tables
+12/5/2024 9:44:20 PM	Gathering primary keys
+12/5/2024 9:44:20 PM	Gathering unique constraints
+12/5/2024 9:44:20 PM	Gathering foreign keys
+12/5/2024 9:44:20 PM	Gathering default constraints
+12/5/2024 9:44:20 PM	Gathering check constraints
+12/5/2024 9:44:20 PM	Gathering views
+12/5/2024 9:44:20 PM	Gathering encrypted views
+12/5/2024 9:44:20 PM	Gathering indexes
+12/5/2024 9:44:20 PM	Gathering statistics
+12/5/2024 9:44:20 PM	Gathering full-text index stoplists
+12/5/2024 9:44:20 PM	Gathering search property lists
+12/5/2024 9:44:20 PM	Gathering search properties
+12/5/2024 9:44:20 PM	Gathering full-text indexes
+12/5/2024 9:44:20 PM	Gathering column store indexes
+12/5/2024 9:44:20 PM	Gathering spatial indexes
+12/5/2024 9:44:20 PM	Gathering XML indexes
+12/5/2024 9:44:20 PM	Gathering Selective XML indexes
+12/5/2024 9:44:20 PM	Gathering encrypted triggers
+12/5/2024 9:44:20 PM	Gathering triggers
+12/5/2024 9:44:20 PM	Gathering encrypted and clr ddl triggers
+12/5/2024 9:44:20 PM	Gathering ddl triggers
+12/5/2024 9:44:20 PM	Creating edge constraints
+12/5/2024 9:44:20 PM	Gathering synonyms
+12/5/2024 9:44:20 PM	Gathering defaults
+12/5/2024 9:44:20 PM	Gathering data constraint uddt bindings
+12/5/2024 9:44:20 PM	Gathering rules
+12/5/2024 9:44:20 PM	Gathering data constraint uddt bindings
+12/5/2024 9:44:20 PM	Gathering message types
+12/5/2024 9:44:20 PM	Gathering queues
+12/5/2024 9:44:20 PM	Gathering contracts
+12/5/2024 9:44:20 PM	Gathering services
+12/5/2024 9:44:20 PM	Gathering routes
+12/5/2024 9:44:20 PM	Gathering event notifications
+12/5/2024 9:44:20 PM	Gathering remote service bindings
+12/5/2024 9:44:20 PM	Gathering broker priorities
+12/5/2024 9:44:20 PM	Gathering database audit specifications
+12/5/2024 9:44:20 PM	Gathering signatures
+12/5/2024 9:44:20 PM	Gathering compression options
+12/5/2024 9:44:20 PM	Gathering sequence types
+12/5/2024 9:44:20 PM	Gathering security policies
+12/5/2024 9:44:20 PM	Gather column encryption keys
+12/5/2024 9:44:20 PM	Gathering column master keys
+12/5/2024 9:44:20 PM	Gathering external data sources
+12/5/2024 9:44:20 PM	Gathering external file formats
+12/5/2024 9:44:20 PM	Gathering external tables
+12/5/2024 9:44:20 PM	Gathering extended properties
+12/5/2024 9:44:20 PM	Gathering assemblies
+12/5/2024 9:44:20 PM	Scanning project for duplicate elements
+12/5/2024 9:44:20 PM	Finished duplicate element processing
+12/5/2024 9:44:21 PM	Finished importing database.
+12/5/2024 9:44:21 PM	A summary of the import was saved to the following location: C:\Users\Jonat\source\repos\MIS_Crud_System\MyMISDatabase1\Import Schema Logs\MyMISDatabase1_20241206034416.log
+12/5/2024 9:44:21 PM	Click Finish to continue...

@@ -1,0 +1,13 @@
+C:\Users\Jonat\source\repos\MIS_Crud_System\MIS_Crud_System\bin\Debug\MIS_Crud_System.exe.config
+C:\Users\Jonat\source\repos\MIS_Crud_System\MIS_Crud_System\bin\Debug\MIS_Crud_System.exe
+C:\Users\Jonat\source\repos\MIS_Crud_System\MIS_Crud_System\bin\Debug\MIS_Crud_System.pdb
+C:\Users\Jonat\source\repos\MIS_Crud_System\MIS_Crud_System\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Jonat\source\repos\MIS_Crud_System\MIS_Crud_System\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Jonat\source\repos\MIS_Crud_System\MIS_Crud_System\obj\Debug\MIS_Crud_System.csproj.AssemblyReference.cache
+C:\Users\Jonat\source\repos\MIS_Crud_System\MIS_Crud_System\obj\Debug\MIS_Crud_System.MainForm.resources
+C:\Users\Jonat\source\repos\MIS_Crud_System\MIS_Crud_System\obj\Debug\MIS_Crud_System.Properties.Resources.resources
+C:\Users\Jonat\source\repos\MIS_Crud_System\MIS_Crud_System\obj\Debug\MIS_Crud_System.csproj.GenerateResource.cache
+C:\Users\Jonat\source\repos\MIS_Crud_System\MIS_Crud_System\obj\Debug\MIS_Crud_System.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\source\repos\MIS_Crud_System\MIS_Crud_System\obj\Debug\MIS_Crud.0FDB1078.Up2Date
+C:\Users\Jonat\source\repos\MIS_Crud_System\MIS_Crud_System\obj\Debug\MIS_Crud_System.exe
+C:\Users\Jonat\source\repos\MIS_Crud_System\MIS_Crud_System\obj\Debug\MIS_Crud_System.pdb
